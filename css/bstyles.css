@@ -1,0 +1,35 @@
+/*****tag selectors****/
+img:hover {
+    background-color: gold;
+} 
+
+h1 {
+    color: red; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100px; 
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+
+/******CLASS SELECTORS****/
+
+.bacon{
+    background-color: green;
+}
+
+.broccoli{
+    background-color: red; 
+}
+
+.circular{
+    border-radius: 100%; 
+}
+
+/******ID SELECTORS****/
+
+#heading{
+    color: blue;
+}
